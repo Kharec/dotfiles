@@ -15,6 +15,8 @@ Everything should work as expected on macOS.
 
 Technically, you just have to take the config file(s) and drop it under the right folder (oftenly `~/.config`).
 
+`dot_config` stands for `.config`, and so on.
+
 ## License
 
 MIT License, short so read it.
