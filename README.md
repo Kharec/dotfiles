@@ -11,6 +11,7 @@ Everything should work as expected on macOS.
 - [yabai wm](https://github.com/koekeishiya/yabai)
 - [Kitty terminal emulator](https://sw.kovidgoyal.net/kitty/)
 - [Zellij](https://zellij.dev/)
+- [btop](https://https://github.com/aristocratos/btop) (with catpuccin mocha)
 
 ## How to use
 
