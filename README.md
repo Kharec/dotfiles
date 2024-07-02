@@ -22,4 +22,3 @@ Technically, you just have to take the config file(s) and drop it under the righ
 ## License
 
 MIT License, short so read it.
-
