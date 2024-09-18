@@ -25,3 +25,6 @@ separator = "│"
 mode.normal = "NORMAL"
 mode.insert = "INSERT"
 mode.select = "SELECT"
+
+[keys.normal]
+X = ["extend_line_up", "extend_to_line_bounds"]
