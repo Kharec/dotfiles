@@ -185,7 +185,7 @@ keybinds {
     }
 }
 
-theme "catppuccin-mocha"
+theme "tokyonight"
 
 plugins {
     tab-bar location="zellij:tab-bar"
