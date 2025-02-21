@@ -9,8 +9,8 @@ Everything should work as expected on macOS.
 - [Helix text editor](https://helix-editor.com/)
 - [skhd hotkey daemon](https://github.com/koekeishiya/skhd)
 - [yabai wm](https://github.com/koekeishiya/yabai)
-- [Kitty terminal emulator](https://sw.kovidgoyal.net/kitty/)
-- [btop](https://https://github.com/aristocratos/btop) (with catpuccin mocha)
+- [btop](https://https://github.com/aristocratos/btop)
+- [iterm2](https://iterm2.com/)
 
 ## How to use
 
